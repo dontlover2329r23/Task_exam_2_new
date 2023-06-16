@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSiSCXZSiyK1c82EhqYsAfwxmJq/v+74scMu/bR/Jf+Ovmuua8gdDuTXm9XLD3jmCBp8skv0+Uf8KDZVUQJnOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sherlock\\source\\repos\\Task_exam_2\\23\\Task_for_exam_2\\Task_for_exam_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sherlock\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
